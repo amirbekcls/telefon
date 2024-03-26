@@ -1,0 +1,163 @@
+{
+    "category":[
+        {
+            "id1":1,
+            "name":"category 1",
+            "title":"phone",
+            "image":"https://olcha.uz/image/220x220/products/supplier/stores/1/2024-02-11/EVFl4kRDy647wlfqPL4BZ4UD38ZC5p39CqlKigmU31o8z6px36ays3j2OYoa.jpg"
+
+        },
+        {
+            "id1":2,
+            "name":"category 2",
+            "title":"phone2"
+
+        },
+        {
+            "id1":3,
+            "name":"category 3",
+            "title":"phone3"
+
+        }
+    ],
+    "catalog":[
+        {
+            "id":4,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },
+        {
+            "id":5,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },
+        {
+            "id":6,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },
+        {
+            "id":7,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },
+        {
+            "id":8,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },
+        {
+            "id":9,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":10,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },
+        {
+            "id":11,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },
+        {
+            "id":12,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },
+        {
+            "id":13,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":14,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":15,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":16,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":17,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":18,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":19,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":20,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":21,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":22,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":23,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":24,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":25,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":26,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":27,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":28,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":29,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":30,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":31,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":32,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":33,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":34,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        },  {
+            "id":35,
+            "product_name":"redmi note 10s",
+            "title":"phone"
+        }
+        
+    ]
+}

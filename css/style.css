@@ -1,0 +1,28 @@
+/* GENERAL STYLES */
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    /* width: 100%;
+    height: auto; */
+    width: 500px;
+    height: 400px;
+}
+
+.card {
+    display: flex;
+}
+
+.card__title {
+    color: red;
+}
